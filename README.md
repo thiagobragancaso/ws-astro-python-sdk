@@ -10,7 +10,7 @@
 </div>
 
 ### Descrição
-Aprenda a utlizar esta incrivel biblioteca em Python para ETL usando Airflow open-source desenvolvida para Astronomer.
+Aprenda a utlizar esta incrível biblioteca open-source em Python para ETL, usando Apache Airflow, desenvolvida para Astronomer.
 
 ### Roadmap e Programação
 Cronograma e Agenda do Workshop
