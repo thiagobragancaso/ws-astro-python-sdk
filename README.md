@@ -1,4 +1,4 @@
-# Astro Python SDK: Desenvolvendo ETL no Airflow para Pipelines de Dados Modernos
+# Repositório do Workshop | Astro Python SDK: Desenvolvendo ETL no Airflow para Pipelines de Dados Modernos
 {ws-astro-python-sdk}
 
 - [Astro Python SDK](https://docs.astronomer.io/learn/astro-python-sdk-etl)
@@ -20,3 +20,15 @@ Cronograma e Agenda do Workshop
     <img src="https://github.com/owshq-academy/ws-astro-python-sdk/blob/main/images/0_roadmap.png" alt="Project Logo">
  </a>
 </p>
+
+### Para ambiente local de desenvolvimento
+
+* Seguir o video abaixo:
+    * https://www.loom.com/share/7589687641e34c67b19572cd6b8ed903
+
+Recursos necessário para desenvolvimento local:
+
+- [Docker Desktop](https://www.docker.com/products/docker-desktop/)
+
+- [Astro Python SDK Instalação](https://github.com/astronomer/astro-sdk)
+
