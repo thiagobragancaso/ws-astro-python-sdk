@@ -1,0 +1,30 @@
+airflow:
+
+  connections:
+    - conn_id: aws_default
+      conn_type: aws
+      conn_host:
+      conn_schema:
+      conn_login:
+      conn_password:
+      conn_port:
+      conn_extra: {"aws_access_key_id": "minio", "aws_secret_access_key": "minio123", "endpoint_url": "http://45.55.126.192"}
+
+    - conn_id: snowflake_default
+      conn_type: snowflake
+      conn_host:
+      conn_schema:
+      conn_login: LUANMACIEL
+      conn_password: Q1w2e3r4!
+      conn_port:
+      conn_extra:
+        example_extra_field: {"extra_snowflake_account": "vg65446.us-central1.gcp","extra_snowflake_database": "PYTHIANDB","extra_snowflake_warehouse": "COMPUTE_WH"}
+
+  pools:
+    - pool_name:
+      pool_slot:
+      pool_description:
+
+  variables:
+    - variable_name:
+      variable_value:
